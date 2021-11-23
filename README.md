@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lagarrueal
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning web developpement, C programming and Java programming
+- 🌱 I’m currently learning Machine Learning and Neural Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
