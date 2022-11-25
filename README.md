@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lagarrueal
 - 👀 I’m interested in artificial intelligence, machine learning and deep learning
-- 🌱 I’m currently learning Machine Learning and Neural Networks
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Image Processing, NLP...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : lagarruelal@cy-tech.fr
 
