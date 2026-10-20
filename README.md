@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Alexandre 👋</h1>
-<h3 align="center">AI & Data Science engineer — Machine Learning, Deep Learning, NLP and vector search</h3>
+<h3 align="center">MLOps engineer — taking ML models from notebooks to production</h3>
 
 <p align="center">
   <a href="mailto:lagarruelal@cy-tech.fr"><img src="https://img.shields.io/badge/Email-lagarruelal%40cy--tech.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -10,14 +10,26 @@
 
 ## 🧑‍💻 About me
 
-- 🤖 I build **AI & Data Science** solutions, mostly in **Python**
-- 🔍 I work a lot on **vector search** and semantic retrieval with **Faiss**
-- 🧠 Interested in **Machine Learning**, **Deep Learning**, **Image Processing** and **NLP / Transformers**
+- ⚙️ I'm an **MLOps engineer**: I build the platforms and pipelines that take ML models to production
+- 🚀 Model tracking, serving and deployment with **MLflow**, **KServe** and **Kubernetes**
+- 📈 Monitoring and observability of models in production with **Prometheus** and **Grafana**
+- 🐍 Background in **Data Science & Machine Learning**, mostly in **Python**
 - ✨ I care about clean, well-documented and performant code
-- 💞️ Open to collaborating on AI, NLP and data projects
+- 💞️ Open to collaborating on MLOps / LLMOps and ML platform projects
 - 📫 Reach me at **lagarruelal@cy-tech.fr**
 
 ## 🛠️ Tech stack
+
+**MLOps / LLMOps**
+
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/KServe-2B5FAA?style=flat-square" alt="KServe" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+</p>
 
 **Languages**
 
@@ -48,17 +60,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Faiss-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Faiss" />
-</p>
-
-**MLOps / LLMOps**
-
-<p>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/KServe-2B5FAA?style=flat-square" alt="KServe" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 **Tools**
