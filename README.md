@@ -50,11 +50,19 @@
   <img src="https://img.shields.io/badge/Faiss-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Faiss" />
 </p>
 
+**MLOps / LLMOps**
+
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/KServe-2B5FAA?style=flat-square" alt="KServe" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
 **Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
@@ -67,5 +75,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lagarrueal&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lagarrueal.lagarrueal" alt="Profile views" />
 </p>
